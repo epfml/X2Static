@@ -19,7 +19,7 @@ Dataset in the required format from the code can be download from t.b.a.
 ## References
 When using this code or some of our pretrained vectors for your application, please cite the following paper:
 
-  Prakhar Gupta,  Martin Jaggi [*Obtaining Better Static Word Embeddings Using Contextual Embedding Models*](https://arxiv.org/abs/2106.04302) ACL 2021
+  Prakhar Gupta,  Martin Jaggi, [*Obtaining Better Static Word Embeddings Using Contextual Embedding Models*](https://arxiv.org/abs/2106.04302) ACL 2021
 
 ```
 @inproceedings{Gupta2021ObtainingPC,
