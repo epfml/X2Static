@@ -44,7 +44,7 @@ Suppose, you want to obtain BERT2STATIC<sub>para</sub> embeddings from BERT-12 a
 python learn_from_bert_ver2_paragraph.py --gpu_id 0 --num_epochs 1 --lr 0.001 --algo SparseAdam --t 5e-6 --word_emb_size 768 --location_dataset  processed_data/ --model_folder model/ --num_negatives 10 --pretrained_bert_model bert-base-uncased
 ```
 
-Then the vectors will be stored in model/vectors_final.txt . You can also download the preprocessed data used in the paper from t.b.a. 
+Then the vectors will be stored in model/vectors_final.txt . You can also download the preprocessed data used in the paper from [here](https://zenodo.org/record/5055755). 
 
 For other models, use the relevant python file and relevant word_emb_size (768 for models with 12 layers and 1024 for models with 24 layers) and select the correct pretrained_bert_model/ pretrained_RoBERTa_model/pretrained_gpt2_model as shown in the list below -
 
