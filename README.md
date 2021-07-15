@@ -14,7 +14,7 @@ python convert_bin_to_w2v.py X2Static_best.bin X2Static_best.vec
 ```
 
 ## Dataset
-Dataset in the required format from the code can be download from [here](https://zenodo.org/record/5055755).
+Dataset in the required format for the code can be download from [here](https://zenodo.org/record/5055755).
 
 ## References
 When using this code or some of our pretrained vectors for your application, please cite the following paper:
